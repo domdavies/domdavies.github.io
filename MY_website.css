@@ -26,16 +26,16 @@ p {
     width: 60%;
 }
 
+img{
+    width: 20px;
+    height: 20px;
+}
+
 dom{
     margin-top: 2%;
     margin-left: 40%;
     margin-right: 40%;
     width: 20%;
-}
-
-img{
-    width: 2px;
-    height: 2px;
 }
 
 footer {
