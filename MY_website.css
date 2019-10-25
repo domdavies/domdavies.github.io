@@ -26,12 +26,12 @@ p {
     width: 60%;
 }
 
-icon{
+#icon{
     width: 20px;
     height: 20px;
 }
 
-dom{
+#Dom{
     margin-top: 2%;
     margin-left: 40%;
     margin-right: 40%;
